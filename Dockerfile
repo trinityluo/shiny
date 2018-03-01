@@ -1,3 +1,3 @@
-FROM rocker/shiny:lastest
+FROM rocker/shiny:latest
 
 MAINTAINER Xiaosheng Luo
